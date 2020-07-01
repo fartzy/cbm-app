@@ -20,7 +20,7 @@
 		<env.jackson.version>2.9.0</env.jackson.version>
 		<env.httpclient.version>4.5.5</env.httpclient.version>
 		<env.fluent-hc.version>4.5.5</env.fluent-hc.version>
-		<env.log4j.version>2.11.0</env.log4j.version>
+		<env.log4j.version>2.13.3</env.log4j.version>
 	</properties>
 
 
