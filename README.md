@@ -1,1 +1,1 @@
-# cbm-poc
+# kafka-cbm-poc
