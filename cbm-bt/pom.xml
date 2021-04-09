@@ -17,7 +17,7 @@
 		<env.javaslang.version>2.0.2</env.javaslang.version>
 		<env.slf4j.version>1.7.7</env.slf4j.version>
 		<env.typesafe.version>1.3.0</env.typesafe.version>
-		<env.jackson.version>2.9.0</env.jackson.version>
+		<env.jackson.version>2.12.2</env.jackson.version>
 		<env.httpclient.version>4.5.5</env.httpclient.version>
 		<env.fluent-hc.version>4.5.5</env.fluent-hc.version>
 		<env.log4j.version>2.11.0</env.log4j.version>
